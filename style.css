@@ -1,0 +1,126 @@
+div.directions_dbox {
+	
+}
+
+table.directions_dbox_table {
+	width: 100%;
+	border-bottom: 1px solid #000000;
+	padding: 3px;
+}
+
+td.directions_dbox_table_title_column {
+	border-bottom: 1px solid #000000;
+	width: 100%;
+	font-variant: small-caps;
+	font-size: medium;
+	text-align: center;
+}
+
+td.directions_dbox_table_title_incoming_column {
+	border-top: 1px solid #ffffff;
+	border-bottom: 1px solid #cccccc;
+	width: 50%;
+	text-align: left;
+	padding-left: 18px;
+	background-color: #F0F9FA;
+	background-image: url('images/incoming.png');
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+td.directions_dbox_table_title_outgoing_column {
+	border-bottom: 1px solid #cccccc;
+	width: 50%;
+	text-align: right;
+	background-color: #F0F9FA;
+	padding-right: 18px;
+	background-image: url('images/outgoing.png');
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+td.directions_dbox_table_outgoing_column {
+	vertical-align: top;
+	text-align: right;
+	#background-color: #F2FFFD;
+}
+
+td.directions_dbox_table_incoming_column {
+	vertical-align: top;
+	text-align: left;
+	#background-color: #F2FFFD;
+}
+
+td.directions_dbox_table_incoming_column {
+	vertical-align: top;
+	text-align: left;
+	#background-color: #F2FFFD;
+}
+
+.directions_dbox_occurrences {
+	font-size: xx-small;
+	font-style: italic;
+	padding: 1px;
+}
+
+div.jumps_dbox {
+	
+}
+
+table.jumps_dbox_table {
+	width: 50%;
+	border-bottom: 1px solid #000000;
+	padding: 3px;
+}
+
+td.jumps_dbox_table_title_column {
+	border-bottom: 1px solid #000000;
+	width: 100%;
+	font-variant: small-caps;
+	font-size: medium;
+	text-align: center;
+}
+
+td.jumps_dbox_table_title_from_column {
+	border-top: 1px solid #ffffff;
+	border-bottom: 1px solid #cccccc;
+	text-align: left;
+	background-color: #F0F9FA;
+}
+
+td.jumps_dbox_table_title_to_column {
+	border-bottom: 1px solid #cccccc;
+	text-align: right;
+	background-color: #F0F9FA;
+}
+
+td.jumps_dbox_table_title_count_column {
+	width: 10%;
+	border-bottom: 1px solid #cccccc;
+	text-align: center;
+	background-color: #F0F9FA;
+}
+
+td.jumps_dbox_table_to_column {
+	vertical-align: top;
+	text-align: right;
+	#background-color: #F2FFFD;
+}
+
+td.jumps_dbox_table_from_column {
+	vertical-align: top;
+	text-align: left;
+	#background-color: #F2FFFD;
+}
+
+td.jumps_dbox_table_count_column {
+	vertical-align: top;
+	text-align: center;
+	#background-color: #F2FFFD;
+}
+
+.jumps_dbox_occurrences {
+	font-size: xx-small;
+	font-style: italic;
+	padding: 1px;
+}

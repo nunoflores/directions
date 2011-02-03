@@ -1,0 +1,7 @@
+base   directions
+author Nuno Flores
+email  nuno.flores@gmail.com
+date   2011-03-01
+name   Directions Plug-In to show navigational activity on the wiki.
+desc   This plug-in shows the, for a specific wikipage, from where wikinauts come from and go to from there, within the wiki. It also show the whole wiki clickstream graph and "jumps" throughout the wiki.
+url    http://www.dokuwiki.org/plugin:directions
